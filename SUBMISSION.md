@@ -13,11 +13,16 @@ Submit at https://submit.chromaawards.com/ (deadline Jan 7 2027, 11:45pm PT; no 
 
 **Logline:** Every evening at seven, Mum walked up Carrow Hill. Not for the view. For the one bar.
 
-**Description:** A 60-second spec ad for Porchlight Mobile, a fictional rural network, in a needle-felt stop-motion style. A mother
+**Description:** A 58-second spec ad for Porchlight Mobile, a fictional rural network, in a needle-felt stop-motion style. A mother
 climbs the same hill every evening, in sun, rain and snow, to the only spot where her phone gets one bar and she can call her daughter.
 Then a small light appears on the next ridge, and her phone rings halfway up. The single benefit is coverage that reaches the end of the road.
 The ad treats it as something human: she still walks up the hill, but now she takes her daughter with her. End line: "You can still
 walk up the hill. You just don't have to."
+
+**How it meets the Telecom brief** (paste after the description if there is room):
+- Human connection: the network is shown as a mother and daughter who get to talk. The ad never shows a spec, a map or a speed test.
+- Clear value: one benefit, said once and shown three ways. The bar on her phone, the light on the next ridge, the call that comes halfway up.
+- Craft: a consistent felt puppet across 10 shots (character-referenced stills), a sun / rain / snow passage of time, a warm VO by the grown-up daughter, and an end line that turns the benefit into a choice.
 
 **AI tools / disclosure:**
 - Higgsfield (GPT Image 2.5): 10 stills, each using the first frame as a character reference so the puppet stays consistent (~2.5 credits).
